@@ -1,0 +1,65 @@
+* {
+	padding: 0;
+	margin: 0;
+	background-color: white;
+}
+h1 {
+	color: blue;
+	padding: 10px;
+}
+#myInput {
+	background-color: white;
+	border: 3px solid red;
+	margin-left: 15px;
+
+	border-color: blue;
+}
+
+h3 {
+	color: gray;
+	padding: 10px;
+}
+
+button {
+	color: white;
+	background-color: red;
+	padding: 2px;
+
+	margin-left: 10px;
+}
+h4 {
+	color: black;
+	font-size: 20px;
+	padding: 10px;
+}
+.create {
+	background-color: green;
+}
+.back {
+	margin-left: 16.33%;
+	padding: 10px;
+	background-color: white;
+	width: 70%;
+	height: px;
+	padding: 30px;
+}
+.fixed {
+	position: fixed;
+	border: 3px solid blue;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background-color: white;
+}
+.sticky {
+	position: sticky;
+
+	border: 3px solid blue;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background-color: white;
+	padding-bottom: 10px;
+}
